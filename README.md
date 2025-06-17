@@ -1,6 +1,8 @@
 # yamadatarousan
 
 - [GitHub](https://github.com/yamadatarousan)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamadatarousan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 主なロール
 
