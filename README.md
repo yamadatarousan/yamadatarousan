@@ -4,8 +4,7 @@
 
 ## Roles
 
-- Backend Engineer
-- Frontend Engineer
+- Frontend Engineer/Backend Engineer
 - Lead Engineer(CTO)
 
 ## Qualifications
