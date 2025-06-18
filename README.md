@@ -1,10 +1,8 @@
 # yamadatarousan
-
-- [GitHub](https://github.com/yamadatarousan)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamadatarousan)](https://github.com/anuraghazra/github-readme-stats)
 
-## 主なロール
+## Roles
 
 - Backend Engineer
 - Frontend Engineer
@@ -14,7 +12,7 @@
 
 - 基本情報技術者/応用情報技術者
 
-## スキル
+## Skills
 
 - Languages
   - JavaScript
