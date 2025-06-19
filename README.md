@@ -1,7 +1,6 @@
 # TLDR
 - Frontend Engineer/Backend Engineer
 - Lead Engineer(CTO)
-in Japan
 
 ## Qualifications
 
