@@ -1,11 +1,7 @@
-# yamadatarousan
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamadatarousan)](https://github.com/anuraghazra/github-readme-stats)
-
-## Roles
-
+# TLDR
 - Frontend Engineer/Backend Engineer
 - Lead Engineer(CTO)
+in Japan
 
 ## Qualifications
 
