@@ -1,6 +1,6 @@
 # TLDR
 - Frontend Engineer/Backend Engineer
-- Lead Engineer(CTO)
+- Lead Engineer
 
 ## Qualifications
 
