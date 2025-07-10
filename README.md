@@ -41,10 +41,6 @@
   - S3
   - IAM
 - Azure
-- Others
-  - Cursor
-  - Claude Code
-  - WebRTC
 
 ## Career
 
