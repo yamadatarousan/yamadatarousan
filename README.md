@@ -35,11 +35,6 @@
 - Performance Tuning in {PHP, JavaScript, SQL}
 - Automation Test Engineering
 - Aws
-  - EC2
-  - ECS
-  - lambda
-  - S3
-  - IAM
 - Azure
 
 ## Career
